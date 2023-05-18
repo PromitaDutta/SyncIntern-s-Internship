@@ -1,1 +1,1 @@
-# SyncIntern-s-Internship
+# SyncIntern's-Internship
