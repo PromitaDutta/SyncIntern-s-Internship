@@ -20,3 +20,11 @@ TASK 2: Create an E-mail Template which is received from a fashion app named "**
 TASK 3: Create a product landing page for a headphone selling website which name is "**HEADWORLD**".
 
 -> Below here is the link for the prototype: https://www.figma.com/proto/evmG3QzpbiHpwAKZkANAkh/Product-landing-page?type=design&node-id=1-29&scaling=min-zoom&page-id=0%3A1
+
+
+
+
+
+TASK 4: Create an E-learning website which name is "**Educere**".
+
+-> Below here is the link for the prototype: https://www.figma.com/proto/FhBWI4bV9I8riFLgUUVZdR/Educere?type=design&node-id=3-2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2
